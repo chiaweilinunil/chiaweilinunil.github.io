@@ -62,7 +62,7 @@ Same pattern â€” open [`talks.md`](talks.md) or [`teaching.md`](teaching.md), co
 
 ### Updating bio / research interests
 
-[`index.md`](index.md) is the about-page text. [`research.md`](research.md) is the longer research page.
+[`index.md`](index.md) is the about-page text (bio, research interests, languages).
 
 ---
 
@@ -98,7 +98,6 @@ index.md               About page (home)
 publications.md        Publications page
 teaching.md            Teaching page
 talks.md               Talks & workshops page
-research.md            Research narrative
 cv.md                  CV page (embeds assets/pdf/cv.pdf)
 _news/                 One Markdown file per news entry
 _layouts/              default.html, home.html, page.html
@@ -117,6 +116,6 @@ Blog, dark mode, language switcher, comments, analytics. The bones are simple â€
 ## TODOs
 
 - [ ] Compile and place `assets/pdf/cv.pdf` (see above).
-- [ ] Replace the bio paragraphs in [`index.md`](index.md) and [`research.md`](research.md) with whatever wording you prefer.
+- [ ] Replace the bio paragraphs in [`index.md`](index.md) with whatever wording you prefer.
 - [ ] Trim the starter `_news/` entries you don't want.
 - [ ] Add an ORCID link to `socials:` in `_config.yml` once you have one.
