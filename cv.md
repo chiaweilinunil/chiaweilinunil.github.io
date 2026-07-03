@@ -5,20 +5,26 @@ permalink: /cv/
 ---
 
 <div class="cv-actions">
-  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" download>Download PDF</a>
-  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" target="_blank" rel="noopener">Open in new tab</a>
+  <a href="{{ '/assets/pdf/long_cv_personal_website.pdf' | relative_url }}" download>Download full CV (PDF)</a>
+  <a href="{{ '/assets/pdf/short_cv_personal_website.pdf' | relative_url }}" download>Download short CV (PDF)</a>
+  <a href="{{ '/assets/pdf/long_cv_personal_website.pdf' | relative_url }}" target="_blank" rel="noopener">Open in new tab</a>
 </div>
 
-<object class="cv-embed" data="{{ '/assets/pdf/cv.pdf' | relative_url }}" type="application/pdf">
-  <p>Your browser does not display PDFs inline. <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}">Download the PDF</a> instead.</p>
+<object class="cv-embed" data="{{ '/assets/pdf/long_cv_personal_website.pdf' | relative_url }}" type="application/pdf">
+  <p>Your browser does not display PDFs inline. <a href="{{ '/assets/pdf/long_cv_personal_website.pdf' | relative_url }}">Download the CV</a> instead.</p>
 </object>
 
 ## Education
 
-- **2023 – present** &nbsp;PhD, Université de Lausanne. *The Buddha's Journey to the West — Barlaam and Josaphat in the Eurasian Linguistic Context* (supervisor: Prof. Ingo Strauch).
-- **2021 – 2023** &nbsp;MA, Indo-European Linguistics, Friedrich-Schiller-Universität Jena. Thesis: *The Pahlavi Psalter — Linguistic Commentary with a Synoptic Edition* (supervisors: Prof. Martin J. Kümmel, Dr. Benedikt Peschl). Honours Program for Future Researchers 2023; Certificate in Georgian Studies.
-- **2021 – 2023** &nbsp;MA, Semitic Philology, Friedrich-Schiller-Universität Jena. Thesis: *"Plato Before the Door of India!" — Transcriptions and Translations in al-Bīrūnī's Taḥqīq mā li-l-Hind* (supervisors: Prof. Frank Weigelt, Prof. Matthias Perkams).
-- **2017 – 2021** &nbsp;BA, Classical Philology and South Asian Studies, Ruprecht-Karls-Universität Heidelberg. Thesis: *The \*Ārya-vasiṣṭha-sūtra in Rašīd ad-Dīn's Ǧāmiʿ at-Tawārīḫ* (supervisors: Dr. Mudagamuwe Maithrimurthi, Prof. Michael Radich). Certificate in Celtology, Universität Mannheim.
+- **2023 – present** &nbsp;PhD candidate, Université de Lausanne. *The Buddha's Journey to the West — Barlaam and Josaphat in the Eurasian Linguistic Context* (supervisor: Prof. Ingo Strauch).
+- **2021 – 2023** &nbsp;MA, Indo-European Linguistics, Friedrich-Schiller-Universität Jena.
+  - MA Thesis: *The Pahlavi Psalter — Linguistic Commentary with a Synoptic Edition* (supervisors: Prof. Martin J. Kümmel, Dr. Benedikt Peschl).
+- **2021 – 2023** &nbsp;MA, Semitic Philology, Friedrich-Schiller-Universität Jena.
+  - MA Thesis: *"Plato Before the Door of India!" — Transcriptions and Translations in al-Bīrūnī's Taḥqīq mā li-l-Hind* (supervisors: Prof. Frank Weigelt, Prof. Matthias Perkams).
+- **2021 – 2023** &nbsp;Certificate in Caucasian Linguistics (30 ECTS), Friedrich-Schiller-Universität Jena.
+- **2017 – 2021** &nbsp;BA, Classical Philology and South Asian Studies, Ruprecht-Karls-Universität Heidelberg.
+  - BA Thesis: *The \*Ārya-vasiṣṭha-sūtra in Rašīd ad-Dīn's Ǧāmiʿ at-Tawārīḫ* (supervisors: Dr. Mudagamuwe Maithrimurthi, Prof. Michael Radich).
+  - Certificate in Celtology, Universität Mannheim.
 
 ## Employment
 
@@ -30,4 +36,11 @@ permalink: /cv/
 - **Feb 2018 – Sep 2020** &nbsp;Student assistant, Professorship for Buddhist Studies, Universität Heidelberg.
 - **Oct 2018 – Mar 2019** &nbsp;Student assistant, Humboldt Research Fellowship *The Ethics of Empty Beliefs* (Dr. Rafal Stepien).
 
-See also [Publications](/publications/), [Talks &amp; Workshops](/talks/), and [Teaching](/teaching/) for the rest of the CV in browsable form.
+## Awards
+
+- **2024** &nbsp;Scholarship for Lithuanian Language Winter Course.
+  - Vilniaus Universitetas
+- **2023** &nbsp;Honours Program for Future Researchers.
+  - Friedrich-Schiller-Universität Jena
+- **2016 – 2017** &nbsp;Baden-Württemberg Stipendium.
+  - Eberhard-Karls-Universität Tübingen

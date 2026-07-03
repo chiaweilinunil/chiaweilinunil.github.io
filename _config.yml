@@ -52,7 +52,7 @@ nav:
   - title: CV
     url: /cv/
 
-news_limit: 5
+news_limit: 3
 
 markdown: kramdown
 kramdown:
