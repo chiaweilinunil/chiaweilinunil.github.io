@@ -44,7 +44,7 @@ permalink: /teaching/
   </li>
   <li class="entry">
     <span class="when">Aug 2025 –</span>
-    <span class="what"><span class="title">Syriac Bardesan, <em>The Book of the Laws of the Countries</em></span></span>
+    <span class="what"><span class="title">Syriac and Middle Persian Reaing Group</span></span>
   </li>
   <li class="entry">
     <span class="when">Apr 2025 –</span>
