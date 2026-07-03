@@ -1,3 +1,80 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Chia-Wei Lin
+tagline: Assistante diplômée, Université de Lausanne
+description: >-
+  Personal website of Chia-Wei Lin, PhD student at the Université de Lausanne,
+  working on Buddhist, Christian, and Islamic textual traditions in Eurasia.
+author:
+  name: Chia-Wei Lin
+  email: chia-wei.lin@unil.ch
+
+url: "https://chiaweilinunil.github.io"
+baseurl: ""
+
+permalink: /:title/
+
+me:
+  photo: /assets/img/prof_pic.jpg
+  position: Assistante diplômée
+  affiliation: Section de langues et civilisations slaves et de l'Asie du Sud
+  institution: Université de Lausanne
+  email: chia-wei.lin@unil.ch
+  cv_pdf: /assets/pdf/cv.pdf
+
+socials:
+  - name: Email
+    icon: email
+    url: mailto:chia-wei.lin@unil.ch
+  - name: Academia
+    icon: academia
+    url: https://unil.academia.edu/chiaweilin
+  - name: GitHub
+    icon: github
+    url: https://github.com/chiaweilinunil
+  - name: LinkedIn
+    icon: linkedin
+    url: https://www.linkedin.com/in/chia-wei-lin-636807389/
+  - name: Bluesky
+    icon: bluesky
+    url: https://bsky.app/profile/chiaweilin.bsky.social
+  - name: Instagram
+    icon: instagram
+    url: https://www.instagram.com/chiaweilinguistics/
+
+nav:
+  - title: About
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Talks
+    url: /talks/
+  - title: Teaching
+    url: /teaching/
+  - title: Research
+    url: /research/
+  - title: CV
+    url: /cv/
+
+news_limit: 5
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+collections:
+  news:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - "Prompt and materials"

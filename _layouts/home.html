@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="hero-photo">
+    <img src="{{ site.me.photo | relative_url }}" alt="Photo of {{ site.author.name }}" loading="eager">
+  </div>
+  <div class="hero-text">
+    <h1 class="hero-name">{{ site.author.name }}</h1>
+    <p class="hero-role">{{ site.me.position }}</p>
+    <p class="hero-affiliation">
+      {{ site.me.affiliation }}<br>
+      {{ site.me.institution }}
+    </p>
+    {% include socials.html %}
+  </div>
+</section>
+
+<section class="bio">
+  {{ content }}
+</section>
+
+{% assign news = site.news | sort: 'date' | reverse %}
+{% if news.size > 0 %}
+<section class="news">
+  <h2>News</h2>
+  <ul class="news-list">
+    {% for item in news limit: site.news_limit %}
+      <li class="news-item">
+        <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%b %-d, %Y" }}</time>
+        <div class="news-body">{{ item.content | markdownify }}</div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}

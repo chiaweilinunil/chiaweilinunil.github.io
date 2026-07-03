@@ -1,0 +1,5 @@
+<ul class="socials" aria-label="Profiles">
+  {% for s in site.socials %}
+    <li><a href="{{ s.url }}" rel="me noopener" {% unless s.icon == 'email' %}target="_blank"{% endunless %} title="{{ s.name }}">{{ s.name }}</a></li>
+  {% endfor %}
+</ul>
