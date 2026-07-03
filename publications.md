@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-For the full list, see also my [Academia.edu page](https://unil.academia.edu/chiaweilin). Author names in **bold** indicate me.
+For the full list, see also my [Academia.edu page](https://unil.academia.edu/chiaweilin). 
 
 <div class="pub-group">
   <h3>2026</h3>
