@@ -8,6 +8,13 @@ permalink: /talks/
 
 <ul class="entry-list">
   <li class="entry">
+    <span class="when">2 June 2026</span>
+    <span class="what">
+      <span class="title"><em>LLM-Assisted Dataset Building for Ancient Low-Resource Languages: Old Georgian, Tangut, and Pali</em></span>
+      <span class="venue">Unil@AI Day, Université de Lausanne</span>
+    </span>
+  </li>
+  <li class="entry">
     <span class="when">18 May 2026</span>
     <span class="what">
       <span class="title"><em>Towards a Typology of Orthography of Indic Loanwords in Mainland Southeast Asian Languages</em></span>
@@ -17,8 +24,8 @@ permalink: /talks/
   <li class="entry">
     <span class="when">26–28 Mar 2026</span>
     <span class="what">
-      <span class="title"><em>LLM-Assisted Dataset Building for Ancient Low-Resource Languages: Old Georgian, Tangut, and Pali</em></span>
-      <span class="venue">Unil@AI Day, Université de Lausanne</span>
+      <span class="title"><em>Georgian as the Bridge Language: Balavariani and Abukura in the Context of Arabic-Georgian-Greek Translation</em></span>
+      <span class="venue">Translating the Past: Transtemporal Mediations of Central Asia, University of Wrocław</span>
     </span>
   </li>
   <li class="entry">
