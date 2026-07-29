@@ -8,6 +8,13 @@ permalink: /talks/
 
 <ul class="entry-list">
   <li class="entry">
+    <span class="when">21&ndash;25 Jul 2026</span>
+    <span class="what">
+      <span class="title"><em>Chinese Transcriptions of Syriac and Iranian Sources as Evidence for Northwestern Middle Chinese</em></span>
+      <span class="venue">26th biennial conference of the European Association for Chinese Studies (EACS), Ca&rsquo; Foscari University of Venice</span>
+    </span>
+  </li>
+  <li class="entry">
     <span class="when">2 June 2026</span>
     <span class="what">
       <span class="title"><em>LLM-Assisted Dataset Building for Ancient Low-Resource Languages: Old Georgian, Tangut, and Pali</em></span>
@@ -167,6 +174,140 @@ permalink: /talks/
     <span class="what">
       <span class="title"><em>Scriptio buddhica, interpretatio islamica — The *Ārya-vasiṣṭha-sūtra in Rašīd al-Dīn&rsquo;s Ǧāmiʿ at-Tawārīḫ</em></span>
       <span class="venue">Colloquium Kalīla wa-Dimna — AnonymClassic, Freie Universität Berlin</span>
+    </span>
+  </li>
+</ul>
+
+## Workshops &amp; summer schools
+
+<ul class="entry-list">
+  <li class="entry">
+    <span class="when">11&ndash;13 Dec 2025</span>
+    <span class="what">
+      <span class="title">HTR Winter School 2025: Syriac Group</span>
+      <span class="venue">Österreichische Akademie der Wissenschaften, Vienna</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">27 Oct &ndash; 1 Nov 2025</span>
+    <span class="what">
+      <span class="title">Doctoral school: Current Developments in Research on Middle Chinese and Buddhist Hybrid Chinese</span>
+      <span class="meta">Presentation: <em>Syriac and Iranic Influences on Chinese Jingjiao Documents</em></span>
+      <span class="venue">Universiteit Gent</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">21 Jul &ndash; 21 Aug 2025</span>
+    <span class="what">
+      <span class="title">Leiden Summer School in Languages and Linguistics</span>
+      <span class="meta">An Introduction to Arabic Paleography and Epigraphy; Comparative Semitics</span>
+      <span class="venue">Universiteit Leiden &amp; online</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">21&ndash;25 Jul 2025</span>
+    <span class="what">
+      <span class="title">Coptic Summer School</span>
+      <span class="meta">Advanced Coptic</span>
+      <span class="venue">Facoltà Valdese di Teologia, Rome &amp; online</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">10&ndash;19 Jul 2025</span>
+    <span class="what">
+      <span class="title">Université d&rsquo;été en langues de l&rsquo;orient</span>
+      <span class="meta">Égyptien démotique; Métrique arabe (ʿarūḍ)</span>
+      <span class="venue">Venice International University</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">16&ndash;28 Jun 2025</span>
+    <span class="what">
+      <span class="title">Summer School for Ancient Trans-Himalayan Languages</span>
+      <span class="meta">Tangut, Old Tibetan, Old Chinese, Newar</span>
+      <span class="venue">Trinity College Dublin</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">28&ndash;31 Jan 2025</span>
+    <span class="what">
+      <span class="title">Tradurre l&rsquo;India: Itinerari linguistici, letterari e religiosi nelle varietà del medio indiano</span>
+      <span class="meta">Aśoka Gāndhārī, Pāli, Apabhraṃśa</span>
+      <span class="venue">Università di Bologna</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">2&ndash;7 Sep 2024</span>
+    <span class="what">
+      <span class="title">6th International Summer School for Indo-European Linguistics</span>
+      <span class="meta">Anatolian, Avestan, Mycenaean, Italic, Indo-European Mythology and Poetics</span>
+      <span class="venue">Università di Pavia</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">19&ndash;30 Aug 2024</span>
+    <span class="what">
+      <span class="title">Language and Culture in the Borderlands of the Eastern Silk Road</span>
+      <span class="meta">Bactrian, Tocharian, Tangut, Gāndhārī</span>
+      <span class="venue">Universität Wien</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">14&ndash;27 Feb 2024</span>
+    <span class="what">
+      <span class="title">Norms of Pāṇini&rsquo;s Grammar and Vedic Linguistic Praxis</span>
+      <span class="venue">Università degli Studi di Cagliari</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">4 Jan &ndash; 2 Feb 2024</span>
+    <span class="what">
+      <span class="title">Lithuanian Language and Culture Winter Course 2024</span>
+      <span class="meta">Scholarship awarded by the Lithuanian government</span>
+      <span class="venue">Kauno fakultetas, Vilniaus Universitetas</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">25&ndash;28 Sep 2023</span>
+    <span class="what">
+      <span class="title">Qurʾānic Manuscripts Past and Present: Cataloging and Digital Tools</span>
+      <span class="venue">BBAW &amp; Staatsbibliothek Berlin</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">24&ndash;28 Sep 2023</span>
+    <span class="what">
+      <span class="title">International Summer School: Forms of Heteronomous Texts in Antiquity and Byzantium and Methods of Research</span>
+      <span class="venue">Friedrich-Schiller-Universität Jena</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">9&ndash;18 Aug 2023</span>
+    <span class="what">
+      <span class="title">TACL Summer School</span>
+      <span class="venue">Ruprecht-Karls-Universität Heidelberg</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">24&ndash;27 Jul 2023</span>
+    <span class="what">
+      <span class="title">Erste Sommerschule für Syrische Sprache und Literatur</span>
+      <span class="venue">Goethe-Universität Frankfurt</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">19&ndash;23 Jul 2023</span>
+    <span class="what">
+      <span class="title">Jena Summer School for Indo-European Linguistics</span>
+      <span class="meta">Classical Armenian</span>
+      <span class="venue">Friedrich-Schiller-Universität Jena</span>
+    </span>
+  </li>
+  <li class="entry">
+    <span class="when">18&ndash;23 Feb 2023</span>
+    <span class="what">
+      <span class="title">Masterclass Cuneiform Epigraphy</span>
+      <span class="venue">Ruprecht-Karls-Universität Heidelberg</span>
     </span>
   </li>
 </ul>
