@@ -12,8 +12,8 @@ For the full list, see also my [Academia.edu page](https://unil.academia.edu/chi
     <li class="entry">
       <span class="when">2026</span>
       <span class="what">
-        <span><span class="self">Lin, Chia-Wei</span>, and Diego Luinetti. &ldquo;Building a Treebank for the Book of Ezra of the Old Georgian Oshki Bible.&rdquo; <em>Journal of Open Humanities Data</em>.</span>
-        <span class="meta">doi: 10.5334/johd.559</span>
+        <span><span class="self">Lin, Chia-Wei</span>, and Diego Luinetti. &ldquo;Building a Treebank for the Book of Ezra in the Old Georgian Oshki Bible.&rdquo; <em>Journal of Open Humanities Data</em> 12, no. 1: art. 98.</span>
+        <span class="meta"><a href="https://doi.org/10.5334/johd.559" rel="noopener">doi:10.5334/johd.559</a></span>
       </span>
     </li>
     <li class="entry">
